@@ -37,8 +37,7 @@ This website presents my personal profile, education, technical and professional
 
 ## Live Website
 
-**Vercel:** Add your Vercel deployment URL here after deployment.
-
+**Vercel:** https://personal-cv-portfolio-pi.vercel.app/#home
 ## GitHub
 
 GitHub profile: https://github.com/danielcastrodes3-collab
