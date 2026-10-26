@@ -37,7 +37,7 @@ This website presents my personal profile, education, technical and professional
 
 ## Live Website
 
-**Vercel:** https://personal-cv-portfolio-pi.vercel.app/#home
+**Vercel:** https://personal-cv-portfolio-pi.vercel.app/
 ## GitHub
 
 GitHub profile: https://github.com/danielcastrodes3-collab
